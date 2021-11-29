@@ -1,0 +1,21 @@
+C:\Users\Dell\Desktop\Лаб2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Dell\Desktop\Лаб2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Dell\Desktop\Лаб2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Dell\Desktop\Лаб2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Лаб2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Лаб2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Dell\Desktop\Лаб2\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Політєх\3 курс\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Політєх\3 курс\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Політєх\3 курс\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Політєх\3 курс\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Політєх\3 курс\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Політєх\3 курс\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Політєх\3 курс\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Політєх\3 курс\1 сем\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Політєх\3 курс\1 сем\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Політєх\3 курс\1 сем\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Політєх\3 курс\1 сем\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Політєх\3 курс\1 сем\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Політєх\3 курс\1 сем\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Політєх\3 курс\1 сем\Проєкутвання Інфо систем\Lab 2\Lab2\Lab2\obj\Debug\Lab2.pdb
