@@ -81,8 +81,8 @@ namespace Lab2
             Appartaments.Rows.Add(1,1,1,"1 room",12);
             Appartaments.Rows.Add(2,2, 2, "1 room", 34);
             Appartaments.Rows.Add(3,3, 3, "2 room", 134);
-            Appartaments.Rows.Add(4,4, 4, "3 room", 124);
-            Appartaments.Rows.Add(5,5, 5, "3 room", 12);
+            Appartaments.Rows.Add(4,4, 4, "32 room", 124);
+            Appartaments.Rows.Add(5,5, 5, "4 room", 12);
 
             //cout
             Console.WriteLine("Buildings");
