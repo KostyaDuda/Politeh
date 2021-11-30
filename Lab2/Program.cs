@@ -75,13 +75,14 @@ namespace Lab2
             Buildings.Rows.Add(1,"Bandera st    ","12/1");
             Buildings.Rows.Add(2, "Zaliznychna st    ", "10");
             Buildings.Rows.Add(3,"Franka st  ","23");
-            Buildings.Rows.Add(4,"Vaysera st","13a");
+            Buildings.Rows.Add(4,"Vaysera st_","13a");
             Buildings.Rows.Add(5,"Proskyrivska  ","10");
+            Buildings.Rows.Add(6, "Vaysera", "15");
 
-            Appartaments.Rows.Add(1,1,1,"1 room",12);
+            Appartaments.Rows.Add(1,1,1,"3 room",12);
             Appartaments.Rows.Add(2,2, 2, "1 room", 34);
-            Appartaments.Rows.Add(3,3, 3, "2 room", 134);
-            Appartaments.Rows.Add(4,4, 4, "32 room", 124);
+            Appartaments.Rows.Add(3,3, 3, "2__ room", 134);
+            Appartaments.Rows.Add(4,4, 4, "3 room", 124);
             Appartaments.Rows.Add(5,5, 5, "4 room", 12);
 
             //cout
